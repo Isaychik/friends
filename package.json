@@ -1,0 +1,19 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "Translation of series Friends unknown for me words",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaychik/friends.git"
+  },
+  "author": "Isay Izrailov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaychik/friends/issues"
+  },
+  "homepage": "https://github.com/Isaychik/friends#readme"
+}
